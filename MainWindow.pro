@@ -38,8 +38,6 @@ HEADERS += \
     rolepage.h
 
 FORMS += \
-    adminpage.ui \
-    adminrole.ui \
     hellopage.ui \
     mainpage.ui \
     mainwindow.ui \
